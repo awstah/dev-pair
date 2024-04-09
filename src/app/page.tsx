@@ -2,7 +2,6 @@
 import { HeroHighlight, Highlight } from "@/components/global/hero-highlight";
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { signOut } from "next-auth/react";
 import Link from "next/link";
 import { GitHubLogoIcon, InstagramLogoIcon } from "@radix-ui/react-icons";
 
